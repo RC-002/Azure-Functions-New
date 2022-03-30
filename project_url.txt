@@ -1,3 +1,7 @@
+https://rohanvittest.azurewebsites.net/api/SampleFunction?code=HM5CDuXolCGER00dUIeFR/aaWY3HjFjJttimGjUvV6jrealKzJLFMA==&name=Rohan&data={
+"Inputs": {
+"WebServiceInput0": [
+{
 "ID": 1,
 "LIMIT_BAL": 20000,
 "SEX": 2,
